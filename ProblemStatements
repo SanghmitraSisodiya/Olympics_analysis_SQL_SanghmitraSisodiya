@@ -1,0 +1,77 @@
+### The data set is really huge, with approx. 3Lakh rows.
+### This has been one of the most challenging Data Analysis projects in terms of ETL
+### I have used Dense rank format for the ranking system
+### oh table refers to the olympic history details
+### Nocr table refers to the region, nationality notes and details
+### I have used SQL, Excel and PowerBI for the end to end Data Analysis and Data Visualization
+### you can interact with my Live Dashboard too ( Check ReadMe page )
+
+# Problem Statements and Queries Executed
+
+ETL Process
+
+create table structure
+
+LOAD DATA INFILE method
+---------
+
+Data cleaning and Preparation 
+
+Trim Special and unwanted characters
+
+Change the data type for better mathemetical analysis
+
+How many records are there?
+
+How many olympics games have been held?
+
+
+List down all Olympics games held so far.
+
+Mention the total no of nations who participated in each olympics game?
+
+How many games were held?
+
+How many Summer games were held?
+
+Which Winter games were held?
+
+How many games were played in every sport category in Summers? 
+
+How many different age groups have participated?
+
+How many distinct variables are there in the entire Olympics history table? 
+
+For better visualization and clarity you can refer to my Data Visualization Portfolio @sanghmitraSisodiya
+ 
+How many distinct variables are there in the entire Noc Region table? 
+
+Which year saw the highest and lowest no of countries participating in olympics? 1896 -  2016
+
+Which year saw the lowest no of countries participating in olympics? 1896 -  2016
+
+Which nation has participated in all of the olympic games?
+
+Identify the sport which was played in all summer olympics.
+
+Which Sports were just played only once in the olympics?
+
+Fetch the total no of sports played in each olympic games.
+
+Fetch details of the oldest athletes to win a gold medal.
+
+Find the Ratio of male and female athletes participated in all olympic games.  -
+    
+Fetch the top 5 athletes who have won the most gold medals.
+
+Fetch the top 5 athletes who have won the most medals (gold/silver/bronze).
+
+Fetch the top 5 most successful countries in olympics. Success is defined by no of medals won.
+
+List down total gold, silver and broze medals won by each country corresponding to each olympic games.
+
+In which Sport/event, India has won highest medals.
+
+Break down all olympic games where india has won the highest no. of medals and how many medals in each olympic games. 
+
+------------------------
