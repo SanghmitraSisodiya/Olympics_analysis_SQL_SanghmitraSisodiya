@@ -16,13 +16,20 @@ This is a historical dataset on the modern Olympic Games, including all the Game
 To understand and analyse about how the Olympics have evolved over time by using SQL  (You can see my live dashboard Here, I have used [Power BI](https://www.novypro.com/profile_projects/sanghmitrasisodiya) ), 
 including questions about the participation and performance of women, different nations, and different sports and events.
 
-### The data set is really huge, with approx. 3Lakh rows.
-### This has been one of the most challenging Data Analysis projects in terms of ETL
-### I have used Dense rank format for the ranking system
-### oh table refers to the olympic history details
-### Nocr table refers to the region, nationality notes and details
-### I have used SQL, Excel and PowerBI for the end to end Data Analysis and Data Visualization
-### you can interact with my Live Dashboard too ( Check ReadMe page )
+## Note :- 
+The data set is really huge, with approx. 3Lakh rows.
+
+This has been one of the most challenging Data Analysis projects in terms of ETL
+
+I have used Dense rank format for the ranking system
+
+oh table refers to the olympic history details
+
+Nocr table refers to the region, nationality notes and details
+
+I have used SQL, Excel and PowerBI for the end to end Data Analysis and Data Visualization
+
+you can interact with my Live Dashboard too ( Check ReadMe page )
 
 # Problem Statements and Queries Executed
 
@@ -30,7 +37,8 @@ ETL Process
 
 create table structure
 
-LOAD DATA INFILE method
+Load Data Infile Method
+
 ---------
 
 Data cleaning and Preparation 
